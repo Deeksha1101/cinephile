@@ -1,0 +1,18 @@
+/* ./src/index.css */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body{
+    background-color: #F5F5F5 !important;
+}
+
+.slick-prev {
+    left: 3rem !important;
+    z-index: 1;
+}
+
+.slick-next {
+    right: 3rem !important;
+    z-index: 1;
+}
