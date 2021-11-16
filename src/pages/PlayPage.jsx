@@ -13,10 +13,10 @@ const Plays = () => {
             <div className="flex flex-wrap">
               <div className="w-1/2 md:w-1/3 lg:w-3/12 my-3 flex items-center">
                 <img
-                  src="https://in.bmscdn.com/discovery-catalog/events/tr:w-400,h-600,bg-CCCCCC:w-400.0,h-660.0,cm-pad_resize,bg-000000,fo-top:ote-U2F0LCAxMyBOb3Ygb253YXJkcw%3D%3D,ots-29,otc-FFFFFF,oy-612,ox-24/et00316534-ukblygxddn-portrait.jpg"
+                  src="https://in.bmscdn.com/discovery-catalog/events/tr:w-400,h-600,bg-CCCCCC:w-400.0,h-660.0,cm-pad_resize,bg-000000,fo-top/et00120993-gzavgewmke-portrait.jpg"
                   alt="playspic"
                   alt="kuchbhi"
-                  title="Qaidi"
+                  title="Play"
                   subtitle="Akshara Theatra: Delhi"
                 />
               </div>
@@ -38,9 +38,9 @@ const Plays = () => {
               </div>
               <div className="w-1/2 md:w-1/3 lg:w-3/12 my-3">
                 <img
-                  src="https://in.bmscdn.com/discovery-catalog/events/tr:w-400,h-600,bg-CCCCCC:w-400.0,h-660.0,cm-pad_resize,bg-000000,fo-top:ote-VGh1LCAyNSBOb3Ygb253YXJkcw%3D%3D,ots-29,otc-FFFFFF,oy-612,ox-24/et00317065-yearmfazzc-portrait.jpg"
+                  src="https://in.bmscdn.com/discovery-catalog/events/tr:w-400,h-600,bg-CCCCCC:w-400.0,h-660.0,cm-pad_resize,bg-000000,fo-top/et00313458-fkmmbfmbdr-portrait.jpg"
                   alt="playsimage"
-                  title="Qaidi"
+                  title="Famous"
                   subtitle="Akshara Theatra: Delhi"
                 />
               </div>
